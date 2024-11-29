@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: members of the group
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [current, alumni]
 horizontal: false
 ---
