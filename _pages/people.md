@@ -8,6 +8,9 @@ nav_order: 2
 display_categories: [current, alumni]
 horizontal: false
 ---
+<div class="alert alert-success" role="alert">
+  We are recruiting students for Spring '25!
+</div>
 
 Any open positions will be posted on Harvey Mudd's URO portal (usually in August/November) or on the [HMC CS page for summer research opportunities](https://www.hmc.edu/cs/research/reu/) (usually in January).
 
