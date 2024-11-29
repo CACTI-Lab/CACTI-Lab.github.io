@@ -9,14 +9,18 @@ display_categories: [current, alumni]
 horizontal: false
 ---
 
+Any open positions will be posted on Harvey Mudd's URO portal (usually in August/November) or on the [HMC CS page for summer research opportunities](https://www.hmc.edu/cs/research/reu/) (usually in January).
+
+Please note: there are currently no available positions for graduate students.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
+  <!-- <a id="{{ category }}" href=".#{{ category }}"> -->
     <h2 class="category">{{ category }}</h2>
-  </a>
+  <!-- </a> -->
   {% assign categorized_projects = site.people | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
