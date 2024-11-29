@@ -21,10 +21,6 @@ We leverage design research methods to answer the following key questions:
 - How can we design inclusive mobility technologies?
 - How can we resist replicating legacy inequities in the design future technologies?
 
-<div class="alert alert-success" role="alert">
-  We are recruiting students for Spring '25!
-</div>
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 more_info: >
