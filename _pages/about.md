@@ -23,12 +23,12 @@ We leverage qualitative and design research methods to answer the following key 
 
 Our goal is for our findings to contribute to multiple communities, including academic research, industry practice, and emerging policy. 
 
-Who can apply to the lab: Students at the claremont colleges or through the NSF REU summer program.
+Who can apply to the lab: Students at the Claremont Colleges or through the NSF REU summer program.
 
 When can you apply: Positions are usually advertised in August (fall research), November (spring research), and January (summer research). There are three ways interested students can submit an application:
-- through HMC's URO portal
+- HMC's URO portal
 - [CS Summer Research](https://www.hmc.edu/cs/research/reu/) page
-- the [lab recruitment](https://tinyurl.com/cactilab) form 
+- [Lab recruitment](https://tinyurl.com/cactilab) form 
 
 
 

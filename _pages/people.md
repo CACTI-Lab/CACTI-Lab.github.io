@@ -8,13 +8,9 @@ nav_order: 2
 display_categories: [current, alumni]
 horizontal: false
 ---
-<div class="alert alert-success" role="alert">
+<div class="alert alert-dark" role="alert">
   We are recruiting students for Spring '25. <a href="https://tinyurl.com/cactilab" target="_blank">Apply here</a> or on HMC's URO (not both). Positions are only open to 5C students.
 </div>
-
-Any open positions will be posted on Harvey Mudd's URO portal (usually in August/November) or on the [HMC CS page for summer research opportunities](https://www.hmc.edu/cs/research/reu/) (usually in January).
-
-Please note: there are currently no available positions for graduate students.
 
 <!-- pages/projects.md -->
 <div class="projects">
