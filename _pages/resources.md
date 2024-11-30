@@ -18,7 +18,7 @@ toc:
     subsections:
       - name: disablility-related
       - name: climate-related
-  - name: HCI/HCD courses 
+  - name: human-centered courses  
 ---
 
 ## currently reading
@@ -53,7 +53,7 @@ There are so many people working at similar intersections as we are. Here is a s
 
 - David Rolnick, Priya L. Donti, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Sasha Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla P. Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, and Yoshua Bengio. 2022. __Tackling Climate Change with Machine Learning__. ACM Comput. Surv. 55, 2, Article 42 (February 2023), 96 pages. https://doi.org/10.1145/3485128
 
-## HCI/HCD courses
+## human-centered courses
 
 Human-centered design (HCD) is the process of putting people's needs, perspectives, and values at the center of the design/engineering processes. Human-computer interaction (HCI) is a multidisciplinary field that focuses on understanding how people use computers and how we can design them better. HCD and HCI borrow from design, sociology, CS, history, and anthropology.
 
