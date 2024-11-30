@@ -14,6 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<div class="alert alert-secondary" role="alert">
+  We are recruiting students for Spring '25. <a href="https://tinyurl.com/cactilab" target="_blank" class="alert-link">Apply here</a> or on HMC's URO (not both). Positions are only open to 5C students.
+</div>
+
 CACTI Lab is a research group in the [Hixon Center for Climate and the Environment](https://www.hmc.edu/hixon-center/) at [Harvey Mudd College](https://www.hmc.edu/) led by [Lynn Kirabo](https://www.cs.hmc.edu/~kirabo/). We do research in four core areas: Disability, Mobility Technologies, Climate Change Effects and Interventions. We are commited to contributing to the future of inclusive technologies.
 
 We leverage qualitative and design research methods to answer the following key questions:
