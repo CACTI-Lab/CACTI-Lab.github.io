@@ -27,7 +27,7 @@ There are so many people working at similar intersections as we are. Here is a s
 
 ### disablility-related
 
-- Emma J. McDonnell, Kelly Avery Mack, Kathrin Gerling, Katta Spiel, Cynthia L. Bennett, Robin N. Brewer, Rua Mae Williams, and Garreth W. Tigwell. 2023. __Tackling the Lack of a Practical Guide in Disability-Centered Research__. In Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–5. https://doi.org/10.1145/3597638.3615650
+- Emma J. McDonnell, Kelly Avery Mack, Kathrin Gerling, Katta Spiel, Cynthia L. Bennett, Robin N. Brewer, Rua Mae Williams, and Garreth W. Tigwell. 2023. [__Tackling the Lack of a Practical Guide in Disability-Centered Research__](https://doi.org/10.1145/3597638.3615650). ASSETS '23
 
 - Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, and Robin Brewer. 2023. __"I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models__. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 205–216. https://doi.org/10.1145/3593013.3593989
 
