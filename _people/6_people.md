@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gregory Wickham
+title: G. Wickham
 description: HMC '26, CS/Math. Spring '24
 img: assets/img/photo_2.JPG
 importance: 1

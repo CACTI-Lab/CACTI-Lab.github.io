@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maya Flynn
+title: M. Flynn
 description: Grinnell '26, CS/Math. Summer '24
 img: assets/img/photo_5.jpeg
 importance: 1
