@@ -8,4 +8,3 @@ category: alumni
 related_publications: false
 ---
 
-Kaitlynn Gray. HMC '25, CS. Summer '24
