@@ -1,6 +1,6 @@
 ---
 layout: page
-title: T. Nyugen
+title: T. Nguyen
 description: HMC '27, Incoming Spring '25
 img: assets/img/photo_s25_2.png
 importance: 2
