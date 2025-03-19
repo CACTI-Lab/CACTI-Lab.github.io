@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Y. Peng
-description: HMC '28, Incoming Spring '25
+description: HMC '28, Spring '25
 img: assets/img/photo_s25_3.jpg
 importance: 3
 category: current
