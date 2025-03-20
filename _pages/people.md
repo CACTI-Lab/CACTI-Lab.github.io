@@ -8,9 +8,9 @@ nav_order: 2
 display_categories: [current, alumni]
 horizontal: false
 ---
-<div class="alert alert-secondary" role="alert">
-  We are recruiting students for Spring '25. <a href="https://tinyurl.com/cactilab" target="_blank" class="alert-link">Apply here</a> or on HMC's URO (not both). Positions are only open to 5C students.
-</div>
+<!-- <div class="alert alert-secondary" role="alert">  -->
+  <!-- We are recruiting students for Spring '25. <a href="https://tinyurl.com/cactilab" target="_blank" class="alert-link">Apply here</a> or on HMC's URO (not both). Positions are only open to 5C students.  -->
+<!-- </div>  -->
 
 <!-- pages/projects.md -->
 <div class="projects">
