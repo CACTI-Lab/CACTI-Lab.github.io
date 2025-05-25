@@ -4,6 +4,6 @@ title: Y. Peng
 description: HMC '28, Spring '25
 img: assets/img/photo_s25_3.jpg
 importance: 3
-category: current
+category: alumni
 related_publications: false
 ---
