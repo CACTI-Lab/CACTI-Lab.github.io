@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C. Wang
-description: Swarthmore '28, Summer '25
+description: Swarthmore '27, Summer '25
 img: assets/img/prof_pic.jpg
 importance: 1
 category: current
