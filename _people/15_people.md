@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L. Kreipke
-description: Smith '28, Summer '25
+description: Smith '27, Summer '25
 img: assets/img/prof_pic.jpg
 importance: 3
 category: current
