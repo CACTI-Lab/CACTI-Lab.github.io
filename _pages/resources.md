@@ -47,6 +47,12 @@ There are so many people working at similar intersections as we are. Here is a s
 
 ### climate-related
 
+- Jasmine Lu and Pedro Lopes. 2025. Full Stack Recycling Approaches for Computing Devices. Commun. ACM 68, 7 (July 2025), 86–91. https://doi.org/10.1145/3725983
+
+- J. Lu and P. Lopes, "Re-Envisioning the Role of a User in Sustainable Computing," in IEEE Pervasive Computing, vol. 23, no. 2, pp. 38-44, April-June 2024, doi: 10.1109/MPRV.2024.3383793
+
+- Yuhan Hu, Jasmine Lu, Nathan Scinto-Madonich, Miguel Alfonso Pineros, Pedro Lopes, and Guy Hoffman. 2024. Designing Plant-Driven Actuators for Robots to Grow, Age, and Decay. In Proceedings of the 2024 ACM Designing Interactive Systems Conference (DIS '24). Association for Computing Machinery, New York, NY, USA, 2481–2496. https://doi.org/10.1145/3643834.3661519
+
 - Sasha Luccioni, Bruna Trevelin, and Margaret Mitchell. 2024. [__The Environmental Impacts of AI -- Primer__](https://huggingface.co/blog/sasha/ai-environment-primer). Hugging Face. 
 
 - Sasha Luccioni, Yacine Jernite, and Emma Strubell. 2024. [__Power Hungry Processing: Watts Driving the Cost of AI Deployment?__](https://doi.org/10.1145/3630106.3658542). FAccT '24.
