@@ -26,9 +26,9 @@ Our goal is for our findings to contribute to multiple communities, including ac
 Who can apply to the lab: Students at the Claremont Colleges or through the NSF REU summer program.
 
 When can you apply: Positions are usually advertised in August (fall research), November (spring research), and January (summer research). There are three ways interested students can submit an application:
+- [Lab recruitment](https://tinyurl.com/cacti-lab-s26) form - Recruiting for Spring '26 :bangbang::bangbang:
 - HMC's URO portal
 - [CS Summer Research](https://www.hmc.edu/cs/research/reu/) page
-- [Lab recruitment](https://tinyurl.com/cactilab) form 
 
 
 
