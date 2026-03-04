@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C. Wang
-description: Swarthmore '27, Summer '25
+description: Swarthmore College '27, Summer '25
 img: assets/img/photo_ss25_4.png
 importance: 11
 category: alumni

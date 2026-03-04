@@ -1,7 +1,7 @@
 ---
 layout: page
 title: G. Wickham
-description: HMC '26, CS/Math. Spring '24
+description: HMC '26, Spring '24
 img: assets/img/photo_2.JPG
 importance: 1
 category: alumni
