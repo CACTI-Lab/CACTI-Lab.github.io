@@ -1,9 +1,9 @@
 ---
 layout: page
 title: A.D. Perez
-description: HMC '28, Summer '26, Summer '25
+description: HMC '28, Summer '26/'25
 img: assets/img/photo_ss25_1.jpeg
-importance: 13
+importance: 2
 category: current
 related_publications: false
 ---

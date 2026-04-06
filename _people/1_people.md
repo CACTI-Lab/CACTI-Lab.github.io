@@ -4,6 +4,6 @@ title: Prof. Kirabo
 description: Lab Director
 img: assets/img/Prof-k.png
 category: current
-importance: 7
+importance: 8
 related_publications: false
 ---
