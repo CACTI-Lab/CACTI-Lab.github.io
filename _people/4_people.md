@@ -1,10 +1,10 @@
 ---
 layout: page
 title: K. Gray
-description: Research Assistant. HMC '25, Summer '24
+description: HMC '25. Research Assistant 25/26, Summer '24
 img: assets/img/photo_3.jpg
 importance: 5
-category: alumni
+category: current
 related_publications: false
 ---
 
